@@ -1,4 +1,4 @@
-## Hello There 👋, I'm Pedro (you can also call me Peter)!
+## Hello There 👋, I'm Pedro!
 
 - 🎮 Game Developer  
 - ⚙️ API & Backend Developer  
